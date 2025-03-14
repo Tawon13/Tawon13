@@ -10,7 +10,8 @@ I’m constantly learning and growing in the field, eager to contribute to meani
 
 If you'd like to connect, feel free to reach out through my social media links below: 👇😁
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amine-bechagra-59ab872b4/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amine-bechagra-59ab872b4/)
+[![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amine.bechagra@epitech.eu)
 ---
 
 ### 👨‍💻 Languages I am experienced in
@@ -27,3 +28,8 @@ If you'd like to connect, feel free to reach out through my social media links b
 <br />
 
 #
+
+<p align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=tawon13&count_private=true&show_icons=true&theme=dracula&include_all_commits=true"/>
+  </p><br>
+ 
