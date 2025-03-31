@@ -28,8 +28,3 @@ If you'd like to connect, feel free to reach out through my social media links b
 <br />
 
 #
-
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Tawon13&count_private=true&show_icons=true&theme=dracula&include_all_commits=true"/>
-  </p><br>
- 
